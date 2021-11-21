@@ -8,7 +8,7 @@ CHANNELS = 1
 RATE = 48000
 INPUT_DEVICE_INDEX = 6
 RECORD_SECONDS = 5
-WAVE_OUTPUT_FILENAME = "/home/pi/e//audio/test-rpi.wav"
+WAVE_OUTPUT_FILENAME = "/home/pi/e/audio/test-rpi.wav"
 CHUNK=1024
 
 # Initialize PyAudio
